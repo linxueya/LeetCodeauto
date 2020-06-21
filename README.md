@@ -2,13 +2,13 @@
 
 <p> 
 <img src="https://img.shields.io/badge/User-linxueya-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-160/1685-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-83-yellow.svg?" alt="">
-<img src="https://img.shields.io/badge/Medium-71-green.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-165/1689-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-84-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Medium-75-green.svg?" alt="">
 <img src="https://img.shields.io/badge/Hard-6-red.svg?" alt="">
 </p> 
 
-:heart: 最近一次更新:  2020-06-20 10:20:37  
+:heart: 最近一次更新:  2020-06-22 03:54:12  
 
 :heart: 题目后带有 :lock: 表示该题尚未解锁，需要购买力扣经典会员。
 
@@ -55,27 +55,27 @@
 |33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|中等|数组;二分查找|To Do|
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)|中等|数组;二分查找|To Do|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position)|简单|数组;二分查找|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/35.search-insert-position.cpp)|
-|36|[有效的数独](https://leetcode-cn.com/problems/valid-sudoku)|中等|哈希表|To Do|
+|36|[有效的数独](https://leetcode-cn.com/problems/valid-sudoku)|中等|哈希表|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/36.valid-sudoku.cpp)|
 |37|[解数独](https://leetcode-cn.com/problems/sudoku-solver)|困难|哈希表;回溯算法|To Do|
 |38|[外观数列](https://leetcode-cn.com/problems/count-and-say)|简单|字符串|[Python](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/38.count-and-say.py)|
 |39|[组合总和](https://leetcode-cn.com/problems/combination-sum)|中等|数组;回溯算法|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/39.combination-sum.cpp)|
 |40|[组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii)|中等|数组;回溯算法|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/40.combination-sum-ii.cpp)|
 |41|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive)|困难|数组|To Do|
 |42|[接雨水](https://leetcode-cn.com/problems/trapping-rain-water)|困难|栈;数组;双指针|To Do|
-|43|[字符串相乘](https://leetcode-cn.com/problems/multiply-strings)|中等|数学;字符串|To Do|
+|43|[字符串相乘](https://leetcode-cn.com/problems/multiply-strings)|中等|数学;字符串|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/43.multiply-strings.cpp)|
 |44|[通配符匹配](https://leetcode-cn.com/problems/wildcard-matching)|困难|贪心算法;字符串;动态规划;回溯算法|To Do|
 |45|[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii)|困难|贪心算法;数组|To Do|
 |46|[全排列](https://leetcode-cn.com/problems/permutations)|中等|回溯算法|To Do|
 |47|[全排列 II](https://leetcode-cn.com/problems/permutations-ii)|中等|回溯算法|To Do|
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image)|中等|数组|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/48.rotate-image.cpp)|
-|49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams)|中等|哈希表;字符串|To Do|
+|49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams)|中等|哈希表;字符串|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/49.group-anagrams.cpp)|
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n)|中等|数学;二分查找|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/50.powx-n.cpp)|
 |51|[N皇后](https://leetcode-cn.com/problems/n-queens)|困难|回溯算法|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/51.n-queens.cpp)|
 |52|[N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)|困难|回溯算法|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/52.n-queens-ii.cpp)|
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray)|简单|数组;分治算法;动态规划|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/53.maximum-subarray.cpp)|
 |54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix)|中等|数组|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/54.spiral-matrix.cpp)|
 |55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game)|中等|贪心算法;数组|To Do|
-|56|[合并区间](https://leetcode-cn.com/problems/merge-intervals)|中等|排序;数组|To Do|
+|56|[合并区间](https://leetcode-cn.com/problems/merge-intervals)|中等|排序;数组|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/56.merge-intervals.cpp)|
 |57|[插入区间](https://leetcode-cn.com/problems/insert-interval)|困难|排序;数组|To Do|
 |58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word)|简单|字符串|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/58.length-of-last-word.cpp)|
 |59|[螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii)|中等|数组|To Do|
@@ -94,7 +94,7 @@
 |72|[编辑距离](https://leetcode-cn.com/problems/edit-distance)|困难|字符串;动态规划|To Do|
 |73|[矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes)|中等|数组|To Do|
 |74|[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix)|中等|数组;二分查找|To Do|
-|75|[颜色分类](https://leetcode-cn.com/problems/sort-colors)|中等|排序;数组;双指针|To Do|
+|75|[颜色分类](https://leetcode-cn.com/problems/sort-colors)|中等|排序;数组;双指针|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/75.sort-colors.cpp)|
 |76|[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring)|困难|哈希表;双指针;字符串|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/76.minimum-window-substring.cpp)|
 |77|[组合](https://leetcode-cn.com/problems/combinations)|中等|回溯算法|To Do|
 |78|[子集](https://leetcode-cn.com/problems/subsets)|中等|位运算;数组;回溯算法|To Do|
@@ -172,7 +172,7 @@
 |150|[逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation)|中等|栈|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/150.evaluate-reverse-polish-notation.cpp)|
 |151|[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string)|中等|字符串|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/151.reverse-words-in-a-string.cpp)|
 |152|[乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray)|中等|数组;动态规划|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/152.maximum-product-subarray.cpp)|
-|153|[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array)|中等|数组;二分查找|To Do|
+|153|[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array)|中等|数组;二分查找|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/153.find-minimum-in-rotated-sorted-array.cpp)|
 |154|[寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii)|困难|数组;二分查找|To Do|
 |155|[最小栈](https://leetcode-cn.com/problems/min-stack)|简单|栈;设计|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/155.min-stack.cpp)|
 |156|上下翻转二叉树 :lock:|中等|树|To Do|
@@ -234,7 +234,7 @@
 |212|[单词搜索 II](https://leetcode-cn.com/problems/word-search-ii)|困难|字典树;回溯算法|To Do|
 |213|[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii)|中等|动态规划|To Do|
 |214|[最短回文串](https://leetcode-cn.com/problems/shortest-palindrome)|困难|字符串|To Do|
-|215|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array)|中等|堆;分治算法|To Do|
+|215|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array)|中等|堆;分治算法|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/215.kth-largest-element-in-an-array.cpp)|
 |216|[组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii)|中等|数组;回溯算法|To Do|
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate)|简单|数组;哈希表|To Do|
 |218|[天际线问题](https://leetcode-cn.com/problems/the-skyline-problem)|困难|堆;树状数组;线段树;分治算法|To Do|
@@ -251,7 +251,7 @@
 |229|[求众数 II](https://leetcode-cn.com/problems/majority-element-ii)|中等|数组|To Do|
 |230|[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)|中等|树;二分查找|To Do|
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two)|简单|位运算;数学|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/231.power-of-two.cpp)|
-|232|[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks)|简单|栈;设计|To Do|
+|232|[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks)|简单|栈;设计|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/232.implement-queue-using-stacks.cpp)|
 |233|[数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one)|困难|数学|To Do|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list)|简单|链表;双指针|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/234.palindrome-linked-list.cpp)|
 |235|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|简单|树|To Do|
@@ -391,7 +391,7 @@
 |369|给单链表加一 :lock:|中等|链表|To Do|
 |370|区间加法 :lock:|中等|数组|To Do|
 |371|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers)|简单|位运算|To Do|
-|372|[超级次方](https://leetcode-cn.com/problems/super-pow)|中等|数学|To Do|
+|372|[超级次方](https://leetcode-cn.com/problems/super-pow)|中等|数学|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/372.super-pow.cpp)|
 |373|[查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums)|中等|堆|To Do|
 |374|[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower)|简单|二分查找|To Do|
 |375|[猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii)|中等|极小化极大;动态规划|To Do|
@@ -1501,5 +1501,11 @@
 |1607|矩形面积 :lock:|中等|暂无标签|To Do|
 |1608|计算税后工资 :lock:|中等|暂无标签|To Do|
 |1609|害-未爬到中文名 :lock:|简单|树;深度优先搜索|To Do|
+|1610|[数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array)|简单|位运算;数组|[Cpp](https://github.com/linxueya/LeetCode.git/tree/master/codes_auto/1610.xor-operation-in-an-array.cpp)|
+|1611|[保证文件名唯一](https://leetcode-cn.com/problems/making-file-names-unique)|中等|哈希表;字符串|To Do|
+|1612|[避免洪水泛滥](https://leetcode-cn.com/problems/avoid-flood-in-the-city)|中等|数组;哈希表|To Do|
+|1613|[找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|困难|深度优先搜索;并查集|To Do|
 |1618|删除链表 M 个节点之后的 N 个节点 :lock:|简单|链表|To Do|
 |1623|害-未爬到中文名 :lock:|困难|暂无标签|To Do|
+|1624|克隆含随机指针的二叉树 :lock:|中等|树;深度优先搜索|To Do|
+|1625|害-未爬到中文名 :lock:|简单|暂无标签|To Do|
